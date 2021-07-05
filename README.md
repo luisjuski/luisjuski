@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Luis!</h1>
+<h1 align="center">Hi 👋 My name is Luis!</h1>
 <h3 align="center">Actually I'm developing a new project! 🦾🧠 (Soon I will be posting about it here)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisjuski&label=Profile%20views&color=0e75b6&style=flat" alt="luisjuski" /> </p>

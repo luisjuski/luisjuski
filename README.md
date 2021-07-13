@@ -1,4 +1,4 @@
-<h3 align="center">Actually I'm developing a new project! 🦾🧠 (Soon I will be posting about it here)</h3>
+<h3 align="center">Actually developing a new project! 🦾🧠</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisjuski&label=Profile%20views&color=10cb30&style=flat" alt="luisjuski" /> </p>
 

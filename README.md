@@ -1,5 +1,3 @@
-<h3 align="center">Actually developing a new project! 🦾🧠</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisjuski&label=Profile%20views&color=10cb30&style=flat" alt="luisjuski" /> </p>
 
 <h3 align="left">Connect with me:</h3>
